@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace ConsoleApp26
+namespace BTTH1
 {
     // ===================== BÀI 1: DIEM =====================
     class Diem
